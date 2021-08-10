@@ -1,0 +1,70 @@
+유용한 소프트웨어 정리
+
+1. notepad++
+텍스트 에디터
+메모장이랑 다르게 저장을 안 해도 그 기록이 남아 있으며, 파일의 확장자를 지정해주면
+해당 소스에 맞게 하이라이트를 적용해준다.
+괄호 등의 텍스트에 대해서 시작부분과 끝부분을 하이라이트로 지정해줌
+
+https://notepad-plus-plus.org/downloads/v7.9.5/
+Download 64-bit x64 밑에 있는 Installer 받으면 됨
+
+2. visual studio code
+텍스트 에디터 
+notepad++과 유사하되 조금 더 무거운 텍스트 에디터.
+alt 키를 활용하여 여러 개를 선택 가능하다.
+각종 확장팩들 설치에 따라서 기능들이 점점 더 강력해진다.
+html 소스 작성시 신세계를 맛볼 수 있음
+https://code.visualstudio.com/
+
+3. 그외 텍스트 에디터
+Atom, sublime 텍스트도 추천하나 많이 써본 것은 아님.
+
+
+4. 비욘드 컴페어(4버전 설치하면 됨)
+두 개의 텍스트 파일, 엑셀, 워드 등을 비교할 때 사용(이미지를 비교할 수도 있음)
+유료sw이나 무료처럼 쓸 수 있는 방법들이 인터넷에 많으니 참고하면 된다.
+유사한 sw로는 윈머지가 있으며 이 것은 100% 무료이다.
+https://www.scootersoftware.com/download.php?zz=dl4
+
+5. everything(일반 사무직에서도 많이 쓰이므로 강력 추천)
+윈도우 탐색기보다 훨씬 더 pc내 특정 파일들을 빨리 찾아낸다.
+https://www.voidtools.com/ko-kr/downloads/
+
+6. FindinFiles
+특정 내용이 들어간 파일을 찾을 때 유용
+예시) 확장자명이 sql 이면서 create 라는 글자가 들어간 파일들 찾기
+https://badayak.com/3290
+
+7. zoomIt
+자유자재로 화면을 확대하고 글자를 적을 수 있음 
+기본 설정은 아래와 같으나 변경 가능
+ctrl+1 확대
+ctrl+2 글자쓰기
+ctrl+3 타이머
+ctrl+4 화면 확대하되 마우스 커서랑 같이 확대
+참고로 윈도우키랑 + 키를 동시에 누르면 화면이 확대되고, 여러 번 누르면 더 확대 된다.
+그리고 윈도우 키랑 esc 키를 같이 누르면 확대가 풀린다. 
+하지만 zoomIt이 더 쓰기 편한 것 같다.
+https://m.blog.naver.com/alice8565/221959202005
+
+8. draw.io
+순서도 그릴 때 유용한 사이트
+주소창에 draw.io 입력하기
+
+
+9. aqerytool
+데이터베이스 설계시 활용할 수 있는 사이트
+https://aquerytool.com/
+https://aquerytool.com/help/index/
+
+
+10. DarkNamer
+https://software.naver.com/software/summary.nhn?softwareId=GWS_000169
+파일의 이름을 한꺼번에 바꾸기 좋은 프로그램
+
+11. 칼무리
+https://kalmuri.kilho.net/
+쉽고 강력한 화면 캡쳐 프로그램
+윈도우 + shift + s : 부분 캡쳐는 가능하나 파일 저장은 안 됨
+윈도우 + print screen 키 : 화면 캡쳐 및 이미지 저장 가능(전체 캡쳐) 사진 위치는 내 pc->사진폴더
